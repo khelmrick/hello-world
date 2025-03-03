@@ -1,6 +1,6 @@
 import random
 
-# This is a comment
+# This is a comment.  Adding more to this comment.
 def get_random_number():
     return random.randint(1, 100)
 
